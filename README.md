@@ -1,7 +1,7 @@
 
 # 👋 Sobre mim
 
-Sou Rafael Ferreira, Engenheiro de Software especializado em desenvolvimento **back-end** com mais de 10 anos de experiência, atuando principalmente com **Node.js**, **TypeScript** e **C# (.NET Core)**. Tenho forte atuação em **arquitetura de microsserviços**, integração de sistemas e modernização de legados para ambientes escaláveis em **nuvem (AWS)**.
+Sou Rafael Ferreira, Engenheiro de Software especializado em desenvolvimento **back-end** com mais de 16 anos de experiência, atuando principalmente com **Node.js**, **TypeScript** e **C# (.NET Core)**. Tenho forte atuação em **arquitetura de microsserviços**, integração de sistemas e modernização de legados para ambientes escaláveis em **nuvem (AWS)**.
 
 Atualmente, lidero times técnicos e desenvolvo soluções robustas para empresas dos setores **jurídico**, **financeiro** e **odontológico**, sempre prezando por boas práticas como **Clean Code**, **SOLID**, **TDD** e **CI/CD**. Tenho familiaridade com ferramentas de mensageria como **RabbitMQ**, bancos de dados relacionais e não-relacionais (**MySQL, PostgreSQL, MongoDB, Redis**) e ferramentas de observabilidade como **Datadog** e **OpenTelemetry**.
 
