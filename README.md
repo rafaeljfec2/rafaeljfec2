@@ -17,6 +17,7 @@ Além disso, sou entusiasta de boas arquiteturas, pipelines bem montadas e siste
 - **DevOps / CI/CD**: Docker, GitHub Actions, GitLab CI
 - **Observabilidade**: Datadog, OpenTelemetry
 - **Outros**: API REST, Webhooks, Microsserviços, Integrações com sistemas externos
+- **Testes**: Unitários, E2E, Automatizados
 
 ## 📫 Contato
 
