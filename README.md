@@ -9,7 +9,7 @@ Além disso, sou entusiasta de boas arquiteturas, pipelines bem montadas e siste
 
 ## 💻 Stack principal
 
-- **Linguagens**: Node.js (TypeScript/JavaScript), C#, Python
+- **Linguagens**: Node.js (TypeScript/JavaScript), C#, Python e golang.
 - **Frameworks**: Express.js, NestJS, .NET Core
 - **Banco de dados**: MySQL, PostgreSQL, MongoDB, Redis
 - **Mensageria**: RabbitMQ
