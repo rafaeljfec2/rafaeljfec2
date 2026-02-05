@@ -1,9 +1,17 @@
 
 # 👋 Sobre mim
 
-Sou Rafael Ferreira, Engenheiro de Software especializado em desenvolvimento **back-end** com mais de 16 anos de experiência, atuando principalmente com **Node.js**, **TypeScript** e **C# (.NET Core)**. Tenho forte atuação em **arquitetura de microsserviços**, integração de sistemas e modernização de legados para ambientes escaláveis em **nuvem (AWS)**.
+Sou engenheiro de software com 10 anos de experiência como Tech Lead e mais de 14 anos como desenvolvedor fullstack, trabalhando no desenvolvimento de microserviços e soluções distribuídas utilizando Golang(Pleno), Node.js, C# .NET Core, React, Vite, nestjs e docker em ambientes cloud (AWS) para o mercado de fintech e clinicas odontologicas . Minha experiência envolve liderar a modernização de sistemas, migrações de legado e criação de aplicações escaláveis aplicando princípios como SOLID, Clean Code e Clean Architecture, utilizo IA no auxilio no desenvolvimento do dia a dia e na criação de novos produtos e resolução de problemas.
 
-Atualmente, lidero times técnicos e desenvolvo soluções robustas para empresas dos setores **jurídico**, **financeiro** e **odontológico**, sempre prezando por boas práticas como **Clean Code**, **SOLID**, **TDD** e **CI/CD**. Tenho familiaridade com ferramentas de mensageria como **RabbitMQ**, bancos de dados relacionais e não-relacionais (**MySQL, PostgreSQL, MongoDB, Redis**) e ferramentas de observabilidade como **Datadog** e **OpenTelemetry**.
+Já participei da criação de soluções como assinatura eletrônica para digitalização de clinicas odontológicas que trouxe economia em 30% no tempo de abertura de fichas clinicas e ortodônticas, e conversão de cerca de 40% nos fechamentos dos orçamentos. Projetos voltados para serviços de chatbots com IA, integrações financeiras com gateways de pagamento.
+
+Criei tambem os serviços abaixo:
+
+- https://www.airfinance.com.br
+- https://www.snakeflow.com.br (hobby)
+- https://www.mincteams.com.br
+- https://www.thepostpilot.com.br
+- https://deploy.connexto.com.br seff-hosted
 
 Além disso, sou entusiasta de boas arquiteturas, pipelines bem montadas e sistemas fáceis de manter.
 
