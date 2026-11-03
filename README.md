@@ -1,17 +1,22 @@
 
 # 👋 Sobre mim
 
-Sou engenheiro de software com 10 anos de experiência como Tech Lead e mais de 14 anos como desenvolvedor fullstack, trabalhando no desenvolvimento de microserviços e soluções distribuídas utilizando Golang(Pleno), Node.js, C# .NET Core, React, Vite, nestjs e docker em ambientes cloud (AWS) para o mercado de fintech e clinicas odontologicas . Minha experiência envolve liderar a modernização de sistemas, migrações de legado e criação de aplicações escaláveis aplicando princípios como SOLID, Clean Code e Clean Architecture, utilizo IA no auxilio no desenvolvimento do dia a dia e na criação de novos produtos e resolução de problemas.
+Sou Senior Software Engineer e Tech Lead com 15+ anos construindo produtos e sistemas em produção. Transformo problemas de negócio em soluções de software, atuando da definição do problema à arquitetura, desenvolvimento e entrega. 
 
-Já participei da criação de soluções como assinatura eletrônica para digitalização de clinicas odontológicas que trouxe economia em 30% no tempo de abertura de fichas clinicas e ortodônticas, e conversão de cerca de 40% nos fechamentos dos orçamentos. Projetos voltados para serviços de chatbots com IA, integrações financeiras com gateways de pagamento.
+Já construí sistemas financeiros, integrações, arquiteturas distribuídas e soluções com IA. No Axiom Agents, desenvolvi uma plataforma com 9 agentes e 8 workflows que gerou ~80% de produtividade em atividades repetitivas de engenharia. 
+
+Também atuei em arquiteturas event-driven e produtos financeiros com resultados mensuráveis. Desenvolvi arquitetura event-driven para NF-e em tempo real utilizando RabbitMQ, PostgreSQL, BFF e SSE, permitindo acompanhamento assíncrono do ciclo fiscal. Meu diferencial é unir experiência hands-on, visão de produto e arquitetura para resolver problemas complexos e transformar tecnologia em resultado. 
+
+Liderei a migração de um ERP para clínicas odontológicas, desenvolvido em Delphi 10.1, para uma arquitetura web em nuvem utilizando .NETCore 6+ e React, aplicando o padrão Strangler Fig para substituir gradualmente as funcionalidades do sistema legado. O processo permitiu conduzir a modernização de forma incremental, preservando as regras de negócio existentes e reduzindo os riscos associados a uma reescrita completa do sistema.
 
 Criei tambem os serviços abaixo:
 
 - https://www.airfinance.com.br
-- https://www.snakeflow.com.br (hobby)
+- https://www.snakeflow.com.br 
 - https://www.mincteams.com.br
 - https://www.thepostpilot.com.br
-- https://deploy.connexto.com.br seff-hosted
+- https://deploy.connexto.com.br
+- https://www.nexosign.com.br
 
 Além disso, sou entusiasta de boas arquiteturas, pipelines bem montadas e sistemas fáceis de manter.
 
