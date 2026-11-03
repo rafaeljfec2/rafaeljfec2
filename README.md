@@ -22,15 +22,17 @@ Além disso, sou entusiasta de boas arquiteturas, pipelines bem montadas e siste
 
 ## 💻 Stack principal
 
-- **Linguagens**: Node.js (TypeScript/JavaScript), C#, Python e golang.
-- **Frameworks**: Express.js, NestJS, .NET Core
-- **Banco de dados**: MySQL, PostgreSQL, MongoDB, Redis
-- **Mensageria**: RabbitMQ
-- **Cloud**: AWS (EC2, Lambda, S3, ECS/Fargate)
-- **DevOps / CI/CD**: Docker, GitHub Actions, GitLab CI
-- **Observabilidade**: Datadog, OpenTelemetry
-- **Outros**: API REST, Webhooks, Microsserviços, Integrações com sistemas externos
-- **Testes**: Unitários, E2E, Automatizados
+Competências principais:
+  • Linguagens: TypeScript, JavaScript, Golang, C# .NETCore, Python, Delphi 10.1
+  • Frontend/Mobile: React Native, React.js, Next.js, Vite
+  • Backend: Node.js, Nest.js, .NET Core, APIs REST, GraphQL APIs
+  • Arquitetura: microsserviços, event-driven, sistemas distribuídos, Clean Architecture, DDD, Arquitetura Hexagonal
+  • Dados: PostgreSQL, MySQL, MongoDB, Redis
+  • Mensageria: RabbitMQ, AWS SQS
+  • Cloud e entrega: AWS ECS, S3, CloudWatch, SQS, ECR, RDS, ElasticCache, Docker, CI/CD, Git
+  • Observabilidade: Datadog, OpenTelemetry
+  • Testes: Jest, Vitest, Cypress (E2E)
+  • IA: Claude Code, Copilot, Antigravity, Cursor, Criação de MCP, Criação de agentes.
 
 ## 📫 Contato
 
