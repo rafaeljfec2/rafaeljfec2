@@ -1,15 +1,14 @@
+# 👋 About Me
 
-# 👋 Sobre mim
+I am a Senior Software Engineer and Tech Lead with over 15 years of experience building products and systems for production environments. I transform business challenges into software solutions, overseeing the entire lifecycle—from problem definition and architecture to development and delivery.
 
-Sou Senior Software Engineer e Tech Lead com 15+ anos construindo produtos e sistemas em produção. Transformo problemas de negócio em soluções de software, atuando da definição do problema à arquitetura, desenvolvimento e entrega. 
+My background includes building financial systems, integrations, distributed architectures, and AI-powered solutions. At Axiom Agents, I developed a platform featuring 9 agents and 8 workflows, which boosted productivity by approximately 80% in repetitive engineering tasks.
 
-Já construí sistemas financeiros, integrações, arquiteturas distribuídas e soluções com IA. No Axiom Agents, desenvolvi uma plataforma com 9 agentes e 8 workflows que gerou ~80% de produtividade em atividades repetitivas de engenharia. 
+I have also worked extensively with event-driven architectures and financial products, consistently delivering measurable results. For instance, I designed a real-time, event-driven architecture for electronic invoices (NF-e) using RabbitMQ, PostgreSQL, a Backend-for-Frontend (BFF) pattern, and Server-Sent Events (SSE), enabling asynchronous tracking of the fiscal cycle. My core strength lies in combining hands-on technical expertise with a product-oriented mindset and architectural vision to solve complex problems and translate technology into tangible business outcomes.
 
-Também atuei em arquiteturas event-driven e produtos financeiros com resultados mensuráveis. Desenvolvi arquitetura event-driven para NF-e em tempo real utilizando RabbitMQ, PostgreSQL, BFF e SSE, permitindo acompanhamento assíncrono do ciclo fiscal. Meu diferencial é unir experiência hands-on, visão de produto e arquitetura para resolver problemas complexos e transformar tecnologia em resultado. 
+I led the migration of an ERP system for dental clinics—originally built in Delphi 10.1—to a cloud-based web architecture using .NET Core 6+ and React. By applying the "Strangler Fig" pattern, I was able to replace legacy system functionalities incrementally. This approach allowed for a phased modernization, preserving existing business logic while significantly reducing the risks typically associated with a complete system rewrite.
 
-Liderei a migração de um ERP para clínicas odontológicas, desenvolvido em Delphi 10.1, para uma arquitetura web em nuvem utilizando .NETCore 6+ e React, aplicando o padrão Strangler Fig para substituir gradualmente as funcionalidades do sistema legado. O processo permitiu conduzir a modernização de forma incremental, preservando as regras de negócio existentes e reduzindo os riscos associados a uma reescrita completa do sistema.
-
-Criei tambem os serviços abaixo:
+I also created the services below:
 
 - https://www.airfinance.com.br
 - https://www.snakeflow.com.br 
@@ -18,7 +17,7 @@ Criei tambem os serviços abaixo:
 - https://deploy.connexto.com.br
 - https://www.nexosign.com.br
 
-Além disso, sou entusiasta de boas arquiteturas, pipelines bem montadas e sistemas fáceis de manter.
+Furthermore, I am an enthusiast of sound architecture, well-constructed pipelines, and systems that are easy to maintain.
 
 ## 💻 Stack principal
 
